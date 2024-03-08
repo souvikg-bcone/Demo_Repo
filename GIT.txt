@@ -1,0 +1,5 @@
+With no permission- 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
+
+With all permissions- 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
+
+Azure- https://learn.microsoft.com/en-us/connectors/github/
